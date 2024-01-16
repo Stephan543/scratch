@@ -17,7 +17,10 @@ func main() {
 
 	// someChannel()
 
-	runSort()
+	// runLLSort()
+
+	runMergeSort()
+
 }
 
 func someRoutines() {
